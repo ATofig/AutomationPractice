@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T01:35:43 EDT" name="Default suite" finished-at="2023-04-02T01:36:51 EDT" duration-ms="68732">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T01:35:43 EDT" name="Default test" finished-at="2023-04-02T01:36:51 EDT" duration-ms="68732">
+      <class name="com.cybertek.PracticeCyberTechTasks">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:43 EDT" name="setBrowser" finished-at="2023-04-02T01:35:44 EDT" duration-ms="1556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="actionsPractice()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:44 EDT" name="actionsPractice" finished-at="2023-04-02T01:35:54 EDT" duration-ms="9949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionsPractice -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:54 EDT" name="cleanUp" finished-at="2023-04-02T01:35:54 EDT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:54 EDT" name="setBrowser" finished-at="2023-04-02T01:35:55 EDT" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="doubleClickPractice()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:55 EDT" name="doubleClickPractice" finished-at="2023-04-02T01:35:59 EDT" duration-ms="3626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doubleClickPractice -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:59 EDT" name="cleanUp" finished-at="2023-04-02T01:35:59 EDT" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:35:59 EDT" name="setBrowser" finished-at="2023-04-02T01:36:00 EDT" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="dynamicControls1()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:00 EDT" name="dynamicControls1" finished-at="2023-04-02T01:36:03 EDT" duration-ms="3583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicControls1 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:03 EDT" name="cleanUp" finished-at="2023-04-02T01:36:03 EDT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:03 EDT" name="setBrowser" finished-at="2023-04-02T01:36:04 EDT" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="dynamicControls2()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:04 EDT" name="dynamicControls2" finished-at="2023-04-02T01:36:04 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicControls2 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:04 EDT" name="cleanUp" finished-at="2023-04-02T01:36:04 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:04 EDT" name="setBrowser" finished-at="2023-04-02T01:36:05 EDT" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="explicitWaitExample7()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:05 EDT" name="explicitWaitExample7" finished-at="2023-04-02T01:36:11 EDT" duration-ms="5778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explicitWaitExample7 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:11 EDT" name="cleanUp" finished-at="2023-04-02T01:36:11 EDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:11 EDT" name="setBrowser" finished-at="2023-04-02T01:36:12 EDT" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="fileupload()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:12 EDT" name="fileupload" finished-at="2023-04-02T01:36:15 EDT" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileupload -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:15 EDT" name="cleanUp" finished-at="2023-04-02T01:36:15 EDT" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:15 EDT" name="setBrowser" finished-at="2023-04-02T01:36:16 EDT" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="forgetPassword()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:16 EDT" name="forgetPassword" finished-at="2023-04-02T01:36:17 EDT" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPassword -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:17 EDT" name="cleanUp" finished-at="2023-04-02T01:36:17 EDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:17 EDT" name="setBrowser" finished-at="2023-04-02T01:36:18 EDT" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="iframe()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:18 EDT" name="iframe" finished-at="2023-04-02T01:36:19 EDT" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframe -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:19 EDT" name="cleanUp" finished-at="2023-04-02T01:36:19 EDT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:19 EDT" name="setBrowser" finished-at="2023-04-02T01:36:20 EDT" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="iframeNested()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:20 EDT" name="iframeNested" finished-at="2023-04-02T01:36:20 EDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframeNested -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:20 EDT" name="cleanUp" finished-at="2023-04-02T01:36:20 EDT" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:20 EDT" name="setBrowser" finished-at="2023-04-02T01:36:21 EDT" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="javasciptAlerts()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:21 EDT" name="javasciptAlerts" finished-at="2023-04-02T01:36:22 EDT" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javasciptAlerts -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:22 EDT" name="cleanUp" finished-at="2023-04-02T01:36:22 EDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:22 EDT" name="setBrowser" finished-at="2023-04-02T01:36:23 EDT" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="jsExecuterPractice1()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:23 EDT" name="jsExecuterPractice1" finished-at="2023-04-02T01:36:29 EDT" duration-ms="6591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsExecuterPractice1 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:29 EDT" name="cleanUp" finished-at="2023-04-02T01:36:29 EDT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:29 EDT" name="setBrowser" finished-at="2023-04-02T01:36:30 EDT" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="jsExecuterPractice2()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:30 EDT" name="jsExecuterPractice2" finished-at="2023-04-02T01:36:42 EDT" duration-ms="11418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsExecuterPractice2 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:42 EDT" name="cleanUp" finished-at="2023-04-02T01:36:42 EDT" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:42 EDT" name="setBrowser" finished-at="2023-04-02T01:36:43 EDT" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="rightClickPractice()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:43 EDT" name="rightClickPractice" finished-at="2023-04-02T01:36:43 EDT" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightClickPractice -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:43 EDT" name="cleanUp" finished-at="2023-04-02T01:36:43 EDT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:43 EDT" name="setBrowser" finished-at="2023-04-02T01:36:44 EDT" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="sortableGetDataTable()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:44 EDT" name="sortableGetDataTable" finished-at="2023-04-02T01:36:45 EDT" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortableGetDataTable -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:45 EDT" name="cleanUp" finished-at="2023-04-02T01:36:45 EDT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:45 EDT" name="setBrowser" finished-at="2023-04-02T01:36:46 EDT" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="testDragAndDrop()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:46 EDT" name="testDragAndDrop" finished-at="2023-04-02T01:36:49 EDT" duration-ms="3830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDrop -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:49 EDT" name="cleanUp" finished-at="2023-04-02T01:36:50 EDT" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:50 EDT" name="setBrowser" finished-at="2023-04-02T01:36:50 EDT" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="testPerformHoverAction()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:50 EDT" name="testPerformHoverAction" finished-at="2023-04-02T01:36:51 EDT" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPerformHoverAction -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.cybertek.PracticeCyberTechTasks@40ef3420]" started-at="2023-04-02T01:36:51 EDT" name="cleanUp" finished-at="2023-04-02T01:36:51 EDT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.cybertek.PracticeCyberTechTasks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
